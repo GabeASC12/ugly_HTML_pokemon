@@ -1,0 +1,74 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(6, 72, 255);
+    color: #00ff00
+    /* hex is jus another rep of RGB */ 
+    border: 20px solid gold;
+}
+
+h2 {
+    color: peru;
+}
+
+#pikachu {
+    width: 500px;
+    height: 0px;
+}    
+
+div {
+    text-align: center;
+    background-color: limegreen;
+}
+
+div p {
+    font-family: "Courier New";
+    font-size: 72px;
+    color: pink;
+    text-decoration: underline;
+}
+
+p {
+    color: red;
+    text-decoration: line-through;
+}
+
+
+ol {
+    font-size: 200%;
+    background-color: yellow;
+}
+
+li { 
+    font-size: 50%;
+    background-color: red;
+}
+
+#special {
+    font-size: 200px;
+}
+
+.blue_background {
+    background-color: blue;
+}
+
+.red_font {
+    color: red
+}
+
+.big {
+    font-size: 300%;
+}
+
+#abc {
+    border: 10px solid black;
+    padding: 30px;
+    padding-bottom: 50px;
+    margin: 100px;
+    margin-top: 200px;
+
+}
+
+h2 {
+    margin-top: 0px;
+}
